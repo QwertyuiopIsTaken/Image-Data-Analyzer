@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spiritual-storm-472203-q8",
+  "private_key_id": "5702d96bdc2125a4bedfc49622a63f4633f8046e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCljHasffCkiLaV\nPFG5lBSZpCdsojUDAeUPbpn5SKpGo3iGGpaPVW6rumlEf0ma4KsG41YV8W+F3MH6\nbe8mxyaN/rtMjEW/eTj9gp8yBhlVkRU65a7EWYRVXHCENtELGqUifZ0/8VxTAk6k\nLO36I5XgxJiVQa09qiUMIzTrQXziWhzE0AWBWuuQsah2rdAtXLXgfQHM+3F+Qm4e\nNhacGkW4K2CPxQ+2kOGdg+PkjsI6zZpbyHSjyY69/Zy2p8eRBUXs+Psq4lDaxicE\nSKmcysSZhtADeegGXSNhsr+rrqJ68PaATq+2juBIpA1Ff7Ojv+VGa9Gueahg8114\nb61VWfcBAgMBAAECggEAJ8ilPle3rHq0UhHgW/YzqyaRWOB0V+gtKXO9afRmAzrG\nvIeINiLkST2vjYf/YspqH2ojpntSfztpnGqt5cZHRCl6zm8JVfXmVbn90vI3RWJr\n1S8cPFB85lykJ4na283H8I16bELvGn2782VevVWu74ifWIMjhGWuqIePcJfY0LZP\nADUL1+yd5Oy2mYRNsCalqYEL/aK0UTIYgBdRSGHblQXeB5lohPZEVPUU4VaDS/MF\nrlUu+4KWBRaShZBUi/B5gu4fjrUYcAZxKrF0XNQu/XA8GRh37zWfVo1VLvIH9g5J\nF28BlzjaS18WCevik7qtYgCeABhNsaUwHzj2dOQVCQKBgQDa87yvdWxhpF0OWT3k\nvB7mg1+++JBeTxUvvbuyd43GpNCdZxfmjlfjUlygjVyZvBzy1DtjP3xGmUAxVDic\na0aAVPd/7HWF4GS5LGji6DvEjWiPnAZMGreB+42TYwxZ8w8ukJdaKHfhXo3yxtLB\nA6yK4uHo0zdJ86Qx4cs3o7bnJQKBgQDBj3i/POxnfMQdkcOUBLJZfeurME9QI+XE\n/lQOma0k47i6iVOa0Zb2v3KOdDIXSkW0tth94yitHRD5Tu5oJ34BtFO4n5/STHnO\nxDyaygnD3wpz+WZHp4PxONEZ2LwMVsoWczrGk66qhHkvJWH/lAj28vfhF22smpBM\nMkcZZSrHrQKBgQCCOKimKk51nE4ENKuNGR2/t68AY9FpZduR82Ro9pYJ6QhyNViP\ntWUsPFX+31SN0sXc3sEbfCyryIXXUOIClgLuXJp/KOGU6Cq/v1v6aGjzs67WitNr\n/A/cbQJ9AFHeRaNn7HM4Gg2Cqrv+AqZiSY8bY2k9EjI194RWbpZw1xv3SQKBgDVj\nup2dU2P0MTAqzbSdWwh+SCwPBkGHtVASCuOAFhcvzPt+95WjrC1hf1q1yD9OWE3R\nhYOrzcN6Wf06fV4zTnlv4Qvy06WxPIQA8uqLQghKFFsK9uBa33UBBARKGQyaP+HT\nZOnzQGF+auLLP+28SoC7Yg4vZSwP8i9iSuRBWHx9AoGBAMGYlbRr52M1jsIhV3qE\n5NcC8+yC4H81efPVQZq7PFLmq/vdz/9SLu/riHSt9oTXdgyp7143okrHbluclL/l\nM/csqtpK4o4aW38wt2kqWzGWiEAXjM9QNHUMrC4CRL3Qvhv5Jk8NAFLahEYdvArR\nKWWvcbtvTA7j2yhwKiRVeIQu\n-----END PRIVATE KEY-----\n",
+  "client_email": "name-scanner@spiritual-storm-472203-q8.iam.gserviceaccount.com",
+  "client_id": "116566445826047057835",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/name-scanner%40spiritual-storm-472203-q8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

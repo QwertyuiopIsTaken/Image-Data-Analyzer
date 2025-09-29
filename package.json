@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google-cloud/vision": "^5.3.3",
+    "csv-writer": "^1.6.0"
+  }
+}
