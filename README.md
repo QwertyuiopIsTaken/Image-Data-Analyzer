@@ -1,6 +1,6 @@
 # Image-Data-Analyzer
 
-Utilizing Google Cloud Vision API, this program can effectively scan image files (jpg, jpeg, png, pdf) and extract data from a certain portion of each page.
+Utilizing Google Cloud Vision API, this program can effectively scan image files (jpg, jpeg, png) and extract data from a certain portion of each page.
 
 This program requires you to have a Google API key to access Cloud Vision.
 
