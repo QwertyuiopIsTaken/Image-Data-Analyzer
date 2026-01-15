@@ -23,7 +23,7 @@ npm install
 ```
 4. Run the GUI
 ```bash
-python frontend/gui.py
+python -m frontend.gui
 ```
 
 ## Instructions
